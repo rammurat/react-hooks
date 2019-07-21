@@ -1,2 +1,2 @@
 # react-hooks
-Recat hooks examples
+React hooks examples
